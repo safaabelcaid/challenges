@@ -1,0 +1,23 @@
+
+
+
+.navigation{
+    background-color: aquamarine;
+    display: flex;
+    margin-right: 20px;
+    padding: 60px;
+    box-sizing: border-box;
+
+
+}
+.liste{
+    display: flex;
+    margin-right: 16px;
+    color: black;
+    padding: 5px;
+    
+
+}
+li{
+    margin-right: 16px;
+}
